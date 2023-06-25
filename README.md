@@ -1,4 +1,4 @@
-# 2D_Gravity_simulation
+# 2D Gravity Simulation
 
 <div align="center">
   <img src="https://github.com/msk2000/2D_Gravity_simulation/assets/129243151/084f31f1-2563-4fad-a124-1c1cacabfbaa" width="400" height="300">
